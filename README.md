@@ -70,7 +70,3 @@ If you would like to contribute to this project or report any issues, please ope
 ## License
 
 This project is open-source and available under the [MIT License](LICENSE.md).
-
----
-
-Happy coding! 🚀🛒
